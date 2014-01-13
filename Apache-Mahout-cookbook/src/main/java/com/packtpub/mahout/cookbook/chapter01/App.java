@@ -46,6 +46,7 @@ import org.apache.mahout.cf.taste.recommender.RecommendedItem;
 
 public class App {
     
+    
 
     static final String inputFile = "/mnt/new/ml-1m/ratings.dat";
     static final String outputFile = "/mnt/new/ml-1m/ratings.csv";
